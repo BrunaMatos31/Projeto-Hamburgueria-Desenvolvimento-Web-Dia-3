@@ -8,3 +8,4 @@ Além disso, finalizamos a inserção da localização do restaurante no site, g
 
 Seguimos trabalhando diariamente para implementar melhorias contínuas no site, garantindo uma experiência mais completa e organizada para os usuários.
 
+@gsaldanha236 @Mateus-2D @Dantas007-cybe4 @nicolasmunniz @ChrystiannSangiorgi @Cawa44
